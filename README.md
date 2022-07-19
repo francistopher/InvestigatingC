@@ -1,6 +1,7 @@
 # Investigating C
 
 - 70% of programmers are self taught
+- Reviewing and going deeeeeeeep
 
 ## [C How to Program](./chtp) in progress
 
@@ -11,3 +12,4 @@
 ## [Embedded Systems with ARM](./eswa) not started
 
 ## [string.h](./string) not started
+## [math.h](./math) not started
